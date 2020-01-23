@@ -1,0 +1,56 @@
+body {
+    background-color: #dddddd;
+}
+
+.container #jumbo1 {
+    background-image: url(img/blur2.jpg);
+    background-repeat: no-repeat;
+}
+.display-4 {
+    text-align: center;
+    color: black;
+}
+
+.content #magna{
+    color: white;
+}
+
+.container #jumbo{
+    background-image: url(img/blur3.jpg);
+}
+
+.container .content {
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+}
+
+.content #batas {
+    color: white;
+}
+
+#profil {
+    width: 100px;
+    height: 100px;
+}
+
+.container #button1 {
+    background-color: white;
+    color: black;
+    border: black;
+}
+
+.container .jumbotron {
+    background-image: url(img/blur3.jpg);
+    background-repeat: no-repeat;
+    
+}
+
+.container .footer #button6 {
+    background-color: transparent;
+    color: black;
+    border-color: grey;
+}
+
+.container .row h5 {
+    color: white
+}
